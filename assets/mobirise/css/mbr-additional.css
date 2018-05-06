@@ -1288,9 +1288,11 @@ body {
   display: none;
 }
 .cid-qQMCiK635j {
-  padding-top: 135px;
-  padding-bottom: 135px;
   background-image: url("../../../assets/images/dsc-173.jpg");
+}
+.cid-qQMCiK635j H1 {
+  color: #efefef;
+  text-align: left;
 }
 .cid-qQMWOnl3wA {
   padding-top: 15px;
@@ -1694,10 +1696,10 @@ body {
 }
 .cid-qQMISIsTf0 .nav-link:hover,
 .cid-qQMISIsTf0 .dropdown-item:hover {
-  color: #efefef !important;
+  color: #767676 !important;
 }
 .cid-qQMMW7Aahk {
-  padding-top: 15px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #232323;
 }
@@ -2122,10 +2124,10 @@ body {
 }
 .cid-qQMISIsTf0 .nav-link:hover,
 .cid-qQMISIsTf0 .dropdown-item:hover {
-  color: #efefef !important;
+  color: #767676 !important;
 }
 .cid-qQMMW7Aahk {
-  padding-top: 15px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #232323;
 }
@@ -2519,15 +2521,7 @@ body {
 }
 .cid-qQMISIsTf0 .nav-link:hover,
 .cid-qQMISIsTf0 .dropdown-item:hover {
-  color: #efefef !important;
-}
-.cid-qQMMW7Aahk {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #232323;
-}
-.cid-qQMMW7Aahk .media-container-row .mbr-text {
-  color: #c4bc3b;
+  color: #767676 !important;
 }
 .cid-qQP5DfCSzz {
   background: #ffffff;
@@ -2566,6 +2560,14 @@ body {
 }
 .cid-qQOR0kBLHf H2 {
   text-align: center;
+}
+.cid-qQMMW7Aahk {
+  padding-top: 75px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-qQMMW7Aahk .media-container-row .mbr-text {
+  color: #c4bc3b;
 }
 .cid-qQMISIsTf0 .navbar {
   background: #c4bc3b;
@@ -2957,7 +2959,7 @@ body {
   color: #767676 !important;
 }
 .cid-qQMMW7Aahk {
-  padding-top: 15px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #232323;
 }
@@ -3456,7 +3458,7 @@ body {
   text-align: center;
 }
 .cid-qQMMW7Aahk {
-  padding-top: 15px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #232323;
 }
@@ -3928,7 +3930,7 @@ body {
   text-align: center;
 }
 .cid-qQMMW7Aahk {
-  padding-top: 15px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #232323;
 }
@@ -4363,7 +4365,7 @@ body {
   text-align: center;
 }
 .cid-qQMMW7Aahk {
-  padding-top: 15px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #232323;
 }
@@ -4835,7 +4837,7 @@ body {
   text-align: center;
 }
 .cid-qQMMW7Aahk {
-  padding-top: 15px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #232323;
 }
@@ -5307,7 +5309,7 @@ body {
   text-align: center;
 }
 .cid-qQMMW7Aahk {
-  padding-top: 15px;
+  padding-top: 75px;
   padding-bottom: 30px;
   background-color: #232323;
 }
